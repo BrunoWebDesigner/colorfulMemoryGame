@@ -29,8 +29,7 @@ The game ends when the timer hits zero or all pairs are matched. Can you get a p
 ---
 
 ## 📂 Project Structure
-
-├── index.html            # Main HTML structure
-├── colorfulGame.css      # Styling for the game
-├── colorful_memory_game.js # Game logic and functionality
-└── README.md             # You're reading it!
+- ├── index.html            # Main HTML structure
+- ├── colorfulGame.css      # Styling for the game
+- ├── colorful_memory_game.js # Game logic and functionality
+- └── README.md             # You're reading it!
