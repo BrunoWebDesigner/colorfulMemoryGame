@@ -1,4 +1,6 @@
 # 🌈 Colorful Memory Match Game
+## 🚀 Getting Started
+Check out the live demo [here](https://brunowebdesigner.github.io/colorfulMemoryGame/).
 
 Welcome to the **Colorful Memory Match Game**! Test your memory skills in this vibrant, fun, and interactive game where you match pairs of colorful cards against the clock. Built with HTML, CSS, and JavaScript, this project combines a sleek design with engaging gameplay to create an enjoyable experience for players of all ages.
 
@@ -16,7 +18,6 @@ Welcome to the **Colorful Memory Match Game**! Test your memory skills in this v
 ---
 
 ## 🛠️ How It Works
-
 1. **Start the Game**: Click the "Start/Restart" button to shuffle the cards and begin.
 2. **Flip Cards**: Click any card to reveal its color, then find its matching pair.
 3. **Match Pairs**: If two flipped cards match, they stay revealed. If not, they flip back.
@@ -28,15 +29,8 @@ The game ends when the timer hits zero or all pairs are matched. Can you get a p
 ---
 
 ## 📂 Project Structure
-colorful-memory-match-game/
+
 ├── index.html            # Main HTML structure
 ├── colorfulGame.css      # Styling for the game
 ├── colorful_memory_game.js # Game logic and functionality
 └── README.md             # You're reading it!
-
-
----
-
-## 🚀 Getting Started
-
-Check out the live demo [here](https://brunowebdesigner.github.io/colorfulMemoryGame/).
